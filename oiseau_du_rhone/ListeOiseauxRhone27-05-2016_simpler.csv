@@ -1,0 +1,355 @@
+﻿Species;scientific_name
+Cygne tuberculé;Cygnus olor
+Cygne de Bewick;Cygnus columbianus
+Cygne chanteur;Cygnus cygnus
+Oie des moissons;Anser fabalis
+Oie à bec court;Anser brachyrhynchus
+Oie rieuse;Anser albifrons
+Oie cendrée;Anser anser
+Bernache nonnette;Branta leucopsis
+Bernache cravant;Branta bernicla
+Bernache du Canada;Branta canadensis
+Ouette d'Egypte;Alopochen aegyptiaca
+Tadorne casarca;Tadorna ferruginea
+Tadorne de Belon;Tadorna tadorna
+Canard siffleur;Anas penelope
+Canard chipeau;Anas strepera
+Sarcelle d'hiver;Anas crecca
+Canard colvert;Anas platyrhynchos
+Canard pilet;Anas acuta
+Sarcelle d'été;Anas querquedula
+Canard souchet;Anas clypeata
+Nette rousse;Netta rufina
+Fuligule milouin;Aythya ferina
+Fuligule à bec cerclé;Aythya collaris
+Fuligule nyroca;Aythya nyroca
+Fuligule morillon;Aythya fuligula
+Fuligule milouinan;Aythya marila
+Eider à duvet;Somateria mollissima
+Érismature rousse;Oxyura jamaicensis
+Érismature à tête blanche;Oxyura leucocephala
+Harelde boréale;Clangula hyemalis
+Macreuse noire;Melanitta nigra
+Macreuse brune;Melanitta fusca
+Garrot à oeil d’or;Bucephala clangula
+Harle piette;Mergellus albellus
+Harle huppé;Mergus serrator
+Harle bièvre;Mergus merganser
+Perdrix rouge;Alectoris rufa
+Perdrix grise;Perdix perdix
+Caille des blés;Coturnix coturnix
+Faisan de Colchide;Phasianus colchicus
+Faisan vénéré;Syrmaticus reevesii
+Plongeon catmarin;Gavia stellata
+Plongeon arctique;Gavia arctica
+Plongeon imbrin;Gavia immer
+Grèbe castagneux;Tachybaptus ruficollis
+Grèbe huppé;Podiceps cristatus
+Grèbe jougris;Podiceps grisegena
+Grèbe esclavon;Podiceps auritus
+Grèbe à cou noir;Podiceps nigricollis
+Puffin cendré;Calonectris diomedea
+Fulmar boréal;Fulmarus glacialis
+Océanite tempête;Hydrobates pelagicus
+Grand Cormoran;Phalacrocorax carbo
+Cormoran pygmée;Microcarbo pygmeus
+Butor étoilé;Botaurus stellaris
+Blongios nain;Ixobrychus minutus
+Bihoreau gris;Nycticorax nycticorax
+Crabier chevelu;Ardeola ralloides
+Héron garde-boeufs;Bubulcus ibis
+Aigrette garzette;Egretta garzetta
+Grande Aigrette;Ardea alba
+Héron cendré;Ardea cinerea
+Héron pourpré;Ardea purpurea
+Cigogne noire;Ciconia nigra
+Cigogne blanche;Ciconia ciconia
+Ibis falcinelle;Plegadis falcinellus
+Ibis chauve;Geronticus eremita
+Spatule blanche;Platalea leucorodia
+Flamant rose;Phoenicopterus roseus
+Bondrée apivore;Pernis apivorus
+Élanion blanc;Elanus caeruleus
+Milan noir;Milvus migrans
+Milan royal;Milvus milvus
+Gypaète barbu;Gypaetus barbatus
+Vautour percnoptère;Neophron percnopterus
+Vautour fauve;Gyps fulvus
+Vautour moine;Aegypius monachus
+Circaète Jean-le-Blanc;Circaetus gallicus
+Busard des roseaux;Circus aeruginosus
+Busard Saint-Martin;Circus cyaneus
+Busard cendré;Circus pygargus
+Autour des palombes;Accipiter gentilis
+Épervier d'Europe;Accipiter nisus
+Buse variable;Buteo buteo
+Buse féroce;Buteo rufinus
+Pygargue à queue blanche;Haliaeetus albicilla
+Aigle botté;Hieraaetus pennatus
+Aigle royal;Aquila chrysaetos
+Aigle criard;Aquila clanga
+Balbuzard pêcheur;Pandion haliaetus
+Faucon crécerelle;Falco tinnunculus
+Faucon kobez;Falco vespertinus
+Faucon émerillon;Falco columbarius
+Faucon hobereau;Falco subbuteo
+Faucon pèlerin;Falco peregrinus
+Râle d'eau;Rallus aquaticus
+Marouette ponctuée;Porzana porzana
+Marouette poussin;Porzana parva
+Marouette de Baillon;Porzana pusilla
+Râle des genêts;Crex crex
+Gallinule poule-d'eau;Gallinula chloropus
+Foulque macroule;Fulica atra
+Talève sultane;Porphyrio porphyrio
+Grue cendrée;Grus grus
+Outarde canepetière;Tetrax tetrax
+Outarde de Macqueen;Chlamydotis macqueenii
+Outarde barbue;Otis tarda
+Huîtrier pie;Haematopus ostralegus
+Échasse blanche;Himantopus himantopus
+Avocette élégante;Recurvirostra avosetta
+Oedicnème criard;Burhinus oedicnemus
+Glaréole à collier;Glareola pratincola
+Petit Gravelot;Charadrius dubius
+Grand Gravelot;Charadrius hiaticula
+Gravelot à collier interrompu;Charadrius alexandrinus
+Pluvier guignard;Charadrius morinellus
+Pluvier doré;Pluvialis apricaria
+Pluvier argenté;Pluvialis squatarola
+Vanneau huppé;Vanellus vanellus
+Bécasseau maubèche;Calidris canutus
+Bécasseau sanderling;Calidris alba
+Bécasseau minute;Calidris minuta
+Bécasseau de Temminck;Calidris temminckii
+Bécasseau cocorli;Calidris ferruginea
+Bécasseau variable;Calidris alpina
+Bécasseau tacheté;Calidris melanotos
+Combattant varié;Philomachus pugnax
+Bécassine sourde;Lymnocryptes minimus
+Bécassine des marais;Gallinago gallinago
+Bécassine double;Gallinago media
+Bécasse des bois;Scolopax rusticola
+Barge à queue noire;Limosa limosa
+Barge rousse;Limosa lapponica
+Courlis corlieu;Numenius phaeopus
+Courlis cendré;Numenius arquata
+Chevalier arlequin;Tringa erythropus
+Chevalier gambette;Tringa totanus
+Chevalier aboyeur;Tringa nebularia
+Chevalier stagnatile;Tringa stagnatilis
+Chevalier culblanc;Tringa ochropus
+Chevalier sylvain;Tringa glareola
+Chevalier guignette;Actitis hypoleucos
+Tournepierre à collier;Arenaria interpres
+Phalarope à bec large;Phalaropus fulicarius
+Labbe pomarin;Stercorarius pomarinus
+Grand Labbe;Stercorarius skua
+Labbe à longue queue;Stercorarius longicaudus
+Mouette mélanocéphale;Ichthyaetus melanocephalus
+Mouette atricille;Leucophaeus atricilla
+Mouette de Franklin;Leucophaeus pipixcan
+Mouette pygmée;Hydrocoloeus minutus
+Mouette rieuse;Chroicocephalus ridibundus
+Goéland railleur;Chroicocephalus genei
+Goéland d'Audouin;Ichthyaetus audouinii
+Goéland cendré;Larus canus
+Goéland leucophée;Larus michahellis
+Goéland pontique;Larus cachinnans
+Goéland brun;Larus fuscus
+Goéland argenté;Larus argentatus
+Mouette tridactyle;Rissa tridactyla
+Sterne naine;Sternula albifrons
+Sterne hansel;Gelochelidon nilotica
+Sterne caspienne;Hydroprogne caspia
+Guifette moustac;Chlidonias hybrida
+Guifette noire;Chlidonias niger
+Guifette leucoptère;Chlidonias leucopterus
+Sterne caugek;Thalasseus sandvicensis
+Sterne voyageuse;Thalasseus bengalensis
+Sterne pierregarin;Sterna hirundo
+Sterne arctique;Sterna paradisaea
+Ganga cata;Pterocles alchata
+Pigeon biset domestique;Columba livia domesticus
+Pigeon colombin;Columba oenas
+Pigeon ramier;Columba palumbus
+Tourterelle turque;Streptopelia decaocto
+Tourterelle des bois;Streptopelia turtur
+Perruche à collier;Psittacula krameri
+Coucou gris;Cuculus canorus
+Coucou geai;Clamator glandarius
+Effraie des clochers;Tyto alba
+Petit-duc scops;Otus scops
+Grand-duc d'Europe;Bubo bubo
+Chevêche d'Athéna;Athene noctua
+Chouette hulotte;Strix aluco
+Hibou moyen-duc;Asio otus
+Hibou des marais;Asio flammeus
+Chouette de Tengmalm;Aegolius funereus
+Engoulevent d'Europe;Caprimulgus europaeus
+Martinet à ventre blanc;Tachymarptis melba
+Martinet noir;Apus apus
+Martinet pâle;Apus pallidus
+Martin-pêcheur d'Europe;Alcedo atthis
+Guêpier d'Europe;Merops apiaster
+Rollier d'Europe;Coracias garrulus
+Huppe fasciée;Upupa epops
+Torcol fourmilier;Jynx torquilla
+Pic cendré;Picus canus
+Pic vert;Picus viridis
+Pic noir;Dryocopus martius
+Pic épeiche;Dendrocopos major
+Pic mar;Dendrocopos medius
+Pic épeichette;Dendrocopos minor
+Alouette calandrelle;Calandrella brachydactyla
+Cochevis huppé;Galerida cristata
+Alouette lulu;Lullula arborea
+Alouette des champs;Alauda arvensis
+Hirondelle de rivage;Riparia riparia
+Hirondelle de rochers;Ptyonoprogne rupestris
+Hirondelle rustique;Hirundo rustica
+Hirondelle de fenêtre;Delichon urbicum
+Pipit rousseline;Anthus campestris
+Pipit des arbres;Anthus trivialis
+Pipit farlouse;Anthus pratensis
+Pipit à gorge rousse;Anthus cervinus
+Pipit spioncelle;Anthus spinoletta
+Pipit de Richard;Anthus richardi
+Bergeronnette printanière;Motacilla flava
+Bergeronnette des ruisseaux;Motacilla cinerea
+Bergeronnette grise;Motacilla alba
+Jaseur boréal;Bombycilla garrulus
+Cincle plongeur;Cinclus cinclus
+Troglodyte mignon;Troglodytes troglodytes
+Accenteur mouchet;Prunella modularis
+Accenteur alpin;Prunella collaris
+Rougegorge familier;Erithacus rubecula
+Rossignol philomèle;Luscinia megarhynchos
+Gorgebleue à miroir;Luscinia svecica
+Rougequeue noir;Phoenicurus ochruros
+Rougequeue à front blanc;Phoenicurus phoenicurus
+Tarier des prés;Saxicola rubetra
+Tarier pâtre;Saxicola rubicola
+Traquet motteux;Oenanthe oenanthe
+Traquet oreillard;Oenanthe hispanica
+Monticole de roche;Monticola saxatilis
+Merle à plastron;Turdus torquatus
+Merle noir;Turdus merula
+Grive litorne;Turdus pilaris
+Grive musicienne;Turdus philomelos
+Grive mauvis;Turdus iliacus
+Grive draine;Turdus viscivorus
+Bouscarle de Cetti;Cettia cetti
+Cisticole des joncs;Cisticola juncidis
+Locustelle tachetée;Locustella naevia
+Locustelle luscinioïde;Locustella luscinioides
+Lusciniole à moustaches;Acrocephalus melanopogon
+Phragmite des joncs;Acrocephalus schoenobaenus
+Rousserolle verderolle;Acrocephalus palustris
+Rousserolle effarvatte;Acrocephalus scirpaceus
+Rousserolle turdoïde;Acrocephalus arundinaceus
+Hypolaïs ictérine;Hippolais icterina
+Hypolaïs polyglotte;Hippolais polyglotta
+Fauvette à tête noire;Sylvia atricapilla
+Fauvette des jardins;Sylvia borin
+Fauvette babillarde;Sylvia curruca
+Fauvette orphée;Sylvia hortensis
+Fauvette grisette;Sylvia communis
+Fauvette pitchou;Sylvia undata
+Fauvette passerinette;Sylvia cantillans
+Fauvette mélanocéphale;Sylvia melanocephala
+Pouillot à grands sourcils;Phylloscopus inornatus
+Pouillot de Bonelli;Phylloscopus bonelli
+Pouillot siffleur;Phylloscopus sibilatrix
+Pouillot véloce;Phylloscopus collybita
+Pouillot fitis;Phylloscopus trochilus
+Pouillot verdâtre;Phylloscopus trochiloides
+Roitelet huppé;Regulus regulus
+Roitelet à triple bandeau;Regulus ignicapilla
+Gobemouche gris;Muscicapa striata
+Gobemouche nain;Ficedula parva
+Gobemouche à collier;Ficedula albicollis
+Gobemouche noir;Ficedula hypoleuca
+Panure à moustaches;Panurus biarmicus
+Mésange à longue queue;Aegithalos caudatus
+Mésange nonnette;Poecile palustris
+Mésange boréale;Poecile montanus
+Mésange huppée;Lophophanes cristatus
+Mésange noire;Periparus ater
+Mésange bleue;Cyanistes caeruleus
+Mésange charbonnière;Parus major
+Sittelle torchepot;Sitta europaea
+Tichodrome échelette;Tichodroma muraria
+Grimpereau des bois;Certhia familiaris
+Grimpereau des jardins;Certhia brachydactyla
+Rémiz penduline;Remiz pendulinus
+Loriot d'Europe;Oriolus oriolus
+Pie-grièche écorcheur;Lanius collurio
+Pie-grièche à poitrine rose;Lanius minor
+Pie-grièche grise;Lanius excubitor
+Pie-grièche à tête rousse;Lanius senator
+Geai des chênes;Garrulus glandarius
+Pie bavarde;Pica pica
+Cassenoix moucheté;Nucifraga caryocatactes
+Choucas des tours;Coloeus monedula
+Corbeau freux;Corvus frugilegus
+Corneille noire;Corvus corone
+Corneille noire x mantelée hybride;Corvus corone x cornix
+Grand Corbeau;Corvus corax
+Étourneau sansonnet;Sturnus vulgaris
+Étourneau roselin;Pastor roseus
+Moineau domestique;Passer domesticus
+Moineau friquet;Passer montanus
+Moineau soulcie;Petronia petronia
+Pinson des arbres;Fringilla coelebs
+Pinson du Nord;Fringilla montifringilla
+Serin cini;Serinus serinus
+Venturon montagnard;Carduelis citrinella
+Verdier d'Europe;Carduelis chloris
+Chardonneret élégant;Carduelis carduelis
+Tarin des aulnes;Carduelis spinus
+Linotte mélodieuse;Carduelis cannabina
+Sizerin flammé;Carduelis flammea
+Bec-croisé des sapins;Loxia curvirostra
+Bouvreuil pivoine;Pyrrhula pyrrhula
+Grosbec casse-noyaux;Coccothraustes coccothraustes
+Bruant des neiges;Plectrophenax nivalis
+Bruant jaune;Emberiza citrinella
+Bruant mélanocéphale;Emberiza melanocephala
+Bruant zizi;Emberiza cirlus
+Bruant fou;Emberiza cia
+Bruant ortolan;Emberiza hortulana
+Bruant nain;Emberiza pusilla
+Bruant des roseaux;Emberiza schoeniclus
+Bruant proyer;Emberiza calandra
+Cygne noir;Cygnus atratus
+Oie cygnoïde;Anser cygnoides
+Canard mandarin;Aix galericulata
+Canard carolin;Aix sponsa
+Calonette à collier noir;Calonetta leucophrys
+Harle couronné;Lophodytes cucullatus
+Grue demoiselle;Grus virgo
+Pélican frisé;Pelecanus crispus
+Paon bleu;Pavo cristatus
+Colin de Virginie;Colinus virginianus
+Pygargue à tête blanche;Haliaeetus leucocephalus
+Tourterelle rose et gris;Streptopelia roseogrisea
+Calopsitte élégante;Nymphicus hollandicus
+Perruche ondulée;Melopsittacus undulatus
+Perruche de Pennant;Platycercus elegans
+Perroquet jaco ou gris du Gabon;Psittacus erithacus
+Inséparable de Fischer;Agapornis fischeri
+Inséparable à face rose;Agapornis roseicollis
+Conure veuve;Myiopsitta monachus
+Perroquet youyou;Poicephalus senegalus
+Léiothrix jaune;Leiothrix lutea
+Corbeau familier;Corvus splendens
+Astrild ondulé;Estrilda astrild
+Capucin damier;Lonchura punctulata
+Capucin à dos marron;Lonchura malacca sinensis
+Serin du Mozambique;Serinus mozambicus
+Roselin à longue queue;Uragus sibiricus
+;
+;
+;
+;
